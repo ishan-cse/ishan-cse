@@ -2,7 +2,7 @@
 - 💼 Working as Junior Programmer in the Information Technology (IT) department of Notre Dame University Bangladesh.
 - 👀 I’m interested in Software Engineerng & Web Application Development (Laravel & PHP).
 - 👨‍🎓 I have completed my graduation in B.Sc. in Computer Science and Engineering from Notre Dame University Bangladesh.
-- 👨‍🎓 I am currently pursuing M.Sc. in Computer Science & Engineering from Jagannath University.
+- 👨‍🎓 Currently pursuing M.Sc. in Computer Science & Engineering from Jagannath University.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ishan0339@gmail.com
 
