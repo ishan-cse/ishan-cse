@@ -2,7 +2,6 @@
 
 ## Officer, IT (Team Leader)  
 ### Information Technology Department  
-**:contentReference[oaicite:0]{index=0}**
 
 ---
 
