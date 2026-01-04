@@ -72,7 +72,7 @@ Notre Dame University Bangladesh
 ## 📫 Contact
 
 📧 Email: **ishan0339@gmail.com**  
-🔗 LinkedIn: *(Add your LinkedIn profile URL here)*
+🔗 LinkedIn: *(https://www.linkedin.com/in/md-harun-aur-rashid-khan-ishan/)*
 
 ---
 
